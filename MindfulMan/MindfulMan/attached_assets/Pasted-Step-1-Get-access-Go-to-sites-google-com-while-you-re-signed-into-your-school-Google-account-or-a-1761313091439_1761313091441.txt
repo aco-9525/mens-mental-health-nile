@@ -1,0 +1,340 @@
+Step 1. Get access
+
+Go to sites.google.com while you’re signed into your school Google account (or a personal one if school blocks it).
+
+Click “Blank” to start a new site.
+
+Done. Now you’re in the editor.
+
+Step 2. Set up the site basics
+
+Top left: click “Untitled Site” → name it
+Men’s Mental Health Support – [Your School Name]
+
+Bottom left of the page: “Site name” → same thing, or shorter like
+[School] Men’s Mental Health
+
+This is the name everyone will see in the header and on posters.
+
+In the header section (top big banner area of the homepage), click the title text and change it to:
+
+Title: “You’re allowed to ask for help.”
+
+Subtitle: “Support and resources for male students at [School Name].”
+
+Why this matters: guys click more if it feels made for them and doesn’t say “mental illness.”
+
+Step 3. Create your main pages
+
+On the right side, click “Pages.” You’re going to add 5 pages.
+
+Click the “+” icon at the bottom to add each new page with these exact names:
+
+I Need Help Now
+
+How I’m Feeling
+
+Stress / School / Life
+
+Support at School
+
+Resources
+
+FAQ
+
+(Homepage already exists, so don’t create that.)
+
+Now your top menu/nav bar should show those pages automatically.
+
+Tip: If “FAQ” or any page doesn’t show in the top menu because Sites hides overflow, click the 3 dots beside the page → “Show in navigation.”
+
+Step 4. Build the homepage layout
+
+Click “Insert” (top right of the editor). You’ll see layout blocks like “Image + text,” “3 columns,” etc.
+
+Do this:
+
+Add a text box at the top under the header:
+
+Text:
+“Mental health is real health. You don’t have to explain everything. You can just say ‘I’m not okay.’ That’s enough.”
+
+Scroll down a bit. Pick the “3 columns” layout.
+You’re going to make 3 cards:
+
+Column 1
+
+Title: “I’m not okay”
+
+Text: “If you’re overwhelmed, angry, or done with everything — click here.”
+
+Turn that text into a link to the “I Need Help Now” page.
+
+Column 2
+
+Title: “Common questions”
+
+Text: “Is it normal to feel this way? How do I talk to parents? Sleep? Anger? School?”
+
+Link to the FAQ page.
+
+Column 3
+
+Title: “Talk to someone at school”
+
+Text: “You can literally walk in and say ‘Can I talk to you for 5 minutes?’”
+
+Link to the Support at School page.
+
+Add footer (bottom of homepage, or use the site footer tool so it shows on every page):
+“This site is not monitored 24/7.
+If you are in immediate danger or thinking about hurting yourself, call 911 or text 988 (Suicide Crisis Helpline in Canada, 24/7).”
+
+You’ll repeat that footer on every page, but Google Sites lets you add one footer that appears everywhere, so do that in the footer section.
+
+Step 5. Fill each page with content
+
+You’re basically copy-pasting text you already have / I already drafted.
+
+Page: I Need Help Now
+
+Add a title box:
+If you are in danger or thinking about hurting yourself right now:
+
+Under it add a text box:
+
+Call 911.
+
+Tell an adult immediately (teacher, office, coach, ANY trusted adult nearby).
+
+You are allowed to ask for help.
+
+Then add another section titled:
+Talk to someone right now (24/7, free):
+
+Text or call 988 (Suicide Crisis Helpline, Canada, 24/7)
+
+Text CONNECT to 686868 (Kids Help Phone, confidential, youth support 24/7)
+
+Then add box:
+Before you do something permanent:
+
+Breathe for 60 seconds
+
+Move somewhere safer (not alone in a stairwell/washroom)
+
+Message one person who cares
+
+You still matter even if your brain says you don’t right now
+
+This page is the #1 reason your site exists.
+
+Make this page stand out:
+
+Click the section → choose a darker “Section background” so it looks serious.
+
+Page: How I’m Feeling
+
+Use a 4-column layout or stack 4 horizontal sections.
+
+Add mini sections like:
+
+Angry / irritated all the time
+
+Anger can be stress, burnout, or feeling disrespected.
+
+You’re not “a problem.” Anger is a signal.
+
+Try walking away before reacting and talk it out instead of holding it in.
+
+Talk to: [Teacher Name / Guidance Office / Room #].
+
+Sad / numb / no energy
+
+Feeling empty, tired, and not enjoying anything can be a sign of depression.
+
+You don’t have to “prove it’s serious” to ask for help.
+
+Move your body a bit, even 5-10 minutes, then talk to someone.
+
+Anxious / overthinking everything
+
+Racing thoughts, stomach tight, can’t focus.
+
+Try box breathing: in 4 sec, hold 4, out 4, hold 4.
+
+Break work into one small task instead of “finish everything tonight.”
+
+Lonely / disconnected
+
+Feeling like “nobody would care” is actually super common in guys.
+
+Isolation is dangerous. Tell someone “I don’t feel okay being alone right now.”
+
+At the bottom add a button that links to “Support at School”:
+Text on the button: Talk to someone at school
+
+In Google Sites you can add a button from the “Insert” panel.
+
+Page: Stress / School / Life
+
+Use separate sections:
+
+School pressure
+“I’m drowning in work and I can’t focus.”
+What you can do:
+
+Ask for an extension early.
+
+Work with a friend / in a classroom after school instead of alone at home.
+
+Ask guidance about timetable/overload. It’s allowed.
+
+Sports / performance pressure
+“I messed up and now I feel useless.”
+What you can do:
+
+One bad game = info, not identity.
+
+Exhaustion and low mood can feel like ‘depression.’ Sometimes you’re just cooked. Rest matters.
+
+Family stress
+“My parents don’t get it, or it’s tense at home.”
+What you can do:
+
+You’re allowed to say “Things are intense at home. I need support.”
+
+If you’re being hurt or controlled, that’s not “discipline.” That’s a safety issue and adults at school can step in.
+
+Friends / relationships
+“Friend drama / breakup killed my mood.”
+What you can do:
+
+Losing someone you’re close to is real grief, not “being dramatic.”
+
+Talk to someone instead of pretending you’re fine.
+
+Page: Support at School
+
+This one needs real names and locations. This page makes your school look serious about helping boys.
+
+Make a section like:
+
+Mental Health Contact Teacher
+Name: [Teacher Name]
+Room: [Room #]
+When: [Before school / Lunch / After school]
+What they do: Quick check-in, help you figure out next steps.
+
+Guidance Counsellor(s)
+Name: [Name]
+Where: [Guidance Office / Room]
+What they do: school stress, anxiety about marks, post-secondary pressure, talking to parents.
+
+Student Success / VP / Child & Youth Worker / Coach / Chaplain / Imam / etc.
+Name: [Name]
+Where: [Room #]
+What they do: family stress, safety, serious stuff.
+
+Then add a short privacy note:
+“Most of what you tell us stays private. We only have to report if someone is in danger or you are in danger.”
+
+That sentence builds trust.
+
+Page: Resources
+
+Split into categories.
+
+Crisis / urgent
+
+Call or text 988 (24/7 Suicide Crisis Helpline in Canada)
+
+Text CONNECT to 686868 (Kids Help Phone, 24/7 youth support)
+
+Apps / tools
+Add things like:
+
+Mood tracking / journaling apps
+
+Breathing / grounding exercises
+(If your school prefers specific ones, list them. If not, leave blank for now and say “coming soon.”)
+
+School supports
+
+Academic accommodations (extensions, reduced workload, extra time)
+
+Talking to teachers about stress
+
+Community / faith
+“Want to talk to someone from your own background / faith?”
+→ “Talk to [staff name] privately. We can connect you.”
+
+This is huge for guys who don’t want “therapy,” but will talk to an imam / youth worker / uncle-type adult.
+
+Page: FAQ
+
+Use Q&A boxes like this:
+
+How do I know if I’m actually struggling with mental health?
+If your mood, sleep, energy, or motivation have changed and it’s been like that for a while, that matters.
+
+What if I don’t want my parents to know?
+You can still talk to a teacher or guidance. You can also text services anonymously (988 / 686868). You don’t have to give a name.
+
+Is it normal for guys to feel emotional or want to cry?
+Yes. Feeling things doesn’t make you weak. Bottling it forever can actually mess you up worse.
+
+How do I help a friend who’s not okay?
+Ask them privately, “Hey, you good?” Then listen. If you’re worried, tell an adult even if your friend says “don’t tell.” Keeping someone alive is not snitching.
+
+Step 6. Branding and trust
+
+Still in Google Sites:
+
+Click Themes (right side). Pick something clean and simple. Avoid anything childish or neon.
+
+Pick school colors if you want it to feel official.
+
+Add your school logo or just the school name in the header so it looks legit and not random student drama.
+
+Why: boys will not use it if it looks fake.
+
+Step 7. Publish it
+
+Hit “Publish” (top right).
+
+It will ask for a web address. Keep it simple, like:
+mens-mental-health-[school-name]
+Example: menshealth-nileacademy
+
+Who can view the site:
+
+If it asks “Anyone in [School Board]” vs “Public,” choose what your admin is okay with.
+
+If you want posters with QR codes around school, choose “Public” so no sign in is needed.
+
+Copy the link. This link is THE THING you put:
+
+on hallway posters
+
+in morning announcements
+
+in the slide at the assembly
+
+in the lunch intro speech
+
+in classrooms
+
+Step 8. Put it in real life
+
+Do these after the site is live:
+
+Print one-page posters:
+“Are you actually okay?”
+Scan for support → QR code → your site link
+
+Put posters in washrooms and hallways.
+
+Have teachers mention it in class (“If you’re not okay, there’s a support link the school made for boys. Screenshot it now.”)
+
+That normalizes it.
